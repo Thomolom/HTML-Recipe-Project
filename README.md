@@ -1,1 +1,1 @@
-
+This is my first HTML project completed with the aid of The Odin Project. I aim to build a simple website that lists a few recipes accompanied by lists of ingredients and instructions on how to use them. By the end of the project I hope to have demonstrateded my new found knowledge of coding with HTML via my personal computers terminal and then uploading it to my portfolio on GitHub. 
